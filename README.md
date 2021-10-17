@@ -48,9 +48,9 @@
   
 </p>
 <p align="center">
-  Show ❤️ by starring repositories you find useful! 
+  Show ❤️ by starring repositories you find useful.
   <br />
-  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them!
+  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
   <br/>
   <br/>
 </p>
