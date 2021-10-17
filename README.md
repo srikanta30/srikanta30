@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center"> GitHub Stats: 📈:</h3>
+<h3 align="center"> GitHub Stats 📈:</h3>
 <p align="center">
   
   [![Srikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanta30&hide=prs,issues,contribs&show_icons=true&theme=cobalt&count_private=true)](#)
