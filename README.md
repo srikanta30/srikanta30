@@ -3,8 +3,9 @@
 
 
 <p align="center">
--   🔭 I’m a full stack web developer specializing in MERN stack. <br/>
+-   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love learning new things, building cool projects & solving real world problems. <br/>
+-   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
 -   ⚡ For fun, I like reading books, playing chess & cricket.
 </p>
 
