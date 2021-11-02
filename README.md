@@ -9,12 +9,8 @@
 -   ⚡ For fun, I like reading books, playing chess & cricket.
 </p>
 
-<h3 align="center">My Main Languages & Tech Stack 🛠️:</h3>
-<p align="center"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
-
-<h3 align="center">Other Languages I Know A Bit 📚:</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"></p>
+<h3 align="center">My Tools & Tech Stack 🛠️:</h3>
+<p align="center"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
 
 ---
 
@@ -23,20 +19,17 @@
 <h3 align="center"> GitHub Stats 📈:</h3>
 <p align="center">
   
-  [![Srikanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanta30&hide=prs,issues,contribs&show_icons=true&theme=cobalt&count_private=true)](#)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanta30&layout=compact&show_icons=true&theme=cobalt&count_private=true&line_height=32)](#)
+
+
+   <img alt="Srikanta Banerjee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanta30&theme=react&hide_border=true&bg_color=0D1117" />
+    
+
 
 </p>
 
 
 ---
  
-<h3 align="center"> Check Out My Latest Articles On Medium 📖:</h3>
-  
-[![Srikanta Banerjee's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=srikanta30&type=horizontal)](https://medium.com/@srikanta30)
-
-
----
 
 
   <h3 align="center">Want To Get In Touch? Reach Out To Me On 👇:</h3>
