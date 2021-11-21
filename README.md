@@ -7,6 +7,7 @@
 -   🌱 I love to code, build things & solve problems. <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
 -   ⚡ For fun, I like reading books, playing chess & cricket.
+-   🌐 Check out my portfolio: https://srikantabanerjee.netlify.app/
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
