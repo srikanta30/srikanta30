@@ -6,8 +6,8 @@
 -   💻 I’m a full stack web developer specializing in MERN stack. <br/>
 -   🌱 I love to code, build things & solve problems. <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
--   ⚡ For fun, I like reading books, playing chess & cricket.
--   🌐 Check out my portfolio: https://srikantabanerjee.netlify.app/
+-   ⚡ For fun, I like reading books, playing chess & cricket. <br/>
+-   🗺️ Want to know more? Check out my portfolio here: <a href="https://srikantabanerjee.netlify.app/">🌐</a> <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
