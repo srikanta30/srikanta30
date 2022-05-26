@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srikanta Banerjee! <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"></h1>
-<h3 align="center"> A Passionate Software Engineer Based In India 👨‍💻 </h3>
+<h3 align="center"> Full Stack Software Engineer Based In India 👨‍💻 </h3>
 
 
 <p align="center">
