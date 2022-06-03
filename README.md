@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Srikanta Banerjee! 👋</h1>
-<h3 align="center"> Full Stack Software Engineer Based In India 👨‍💻 </h3>
 
 
 <p align="center">
--   💻 I’m a full stack web developer specializing in MERN stack. <br/>
--   🌱 I love to code, build things & solve problems. <br/>
--   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
--   ⚡ For fun, I like reading books, playing chess & cricket. <br/>
+I’m a full stack software engineer, proficient in JavaScript & MERN stack. <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
@@ -43,7 +39,7 @@
 <p align="center">
   Show ❤️ by starring repositories you find useful.
   <br />
-  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
+  Feel free to fork any repository if you want to add a new feature or improve them.
   <br/>
   <br/>
 </p>
