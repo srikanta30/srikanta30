@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I’m a full stack software engineer, proficient in JavaScript & MERN stack. <br/>
+I’m a full stack software engineer, specializing in MERN stack. (React, Node.js, Express & MySQL) <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
